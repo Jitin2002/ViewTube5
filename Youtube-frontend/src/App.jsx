@@ -43,7 +43,7 @@ function App() {
     return (
       <div className="h-screen w-full  overflow-y-auto dark:bg-black bg-white text-red-500 dark:text-white">
         <div className="flex flex-col items-center justify-center mt-64">
-          <img src={lodder} className="logo w-24  " alt="Loading..." />
+          <img src={lightLoader} className="logo w-24  " alt="Loading..." />
           <h1 className="text-3xl text-center mt-8 font-semibold">
             ViewTube is Waiting...
           </h1>
