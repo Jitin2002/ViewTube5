@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      // "/api": "https://playtubebyyashpz.onrender.com/api/v1",
-      "/api": "http://localhost:9000/api/v1",
+     
+      "/api": "http://localhost:3000/api/v1"
     },
   },
 });

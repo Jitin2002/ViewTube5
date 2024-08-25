@@ -1,4 +1,4 @@
-# Uchiha-Tube 🎥🐦 (YouTube + Twitter)
+# ViewTube 🎥🐦 (YouTube + Twitter)
 
 ## Overview
 

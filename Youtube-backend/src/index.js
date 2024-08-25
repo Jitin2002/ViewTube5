@@ -3,13 +3,13 @@ import connectToDatabase from "./db/index.js";
 import { app } from "./app.js";
 
 dotenv.config({
-  path: "./.env",
+  path: './.env'
 });
 
 connectToDatabase()
   .then(() => {
-    app.listen(process.env.PORT || 8000, () => {
-      console.log("⚙️  Server is running on Port :", process.env.PORT);
+    app.listen(process.env.PORT || 3000, () => {
+      console.log(`⚙️  Server is running on Port :", ${process.env.PORT}`);
     });
   })
   .catch((err) => {

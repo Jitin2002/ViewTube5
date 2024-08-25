@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["https://playtube-by-yashpz.vercel.app", "http://localhost:5173"],
+    origin:  process.env.CORS_ORIGIN,
     credentials: true,
   })
 );

@@ -19,57 +19,42 @@ function Support() {
             <ul className="text-center flex flex-col items-center space-y-2">
               <li className="flex items-center">
                 <span className="w-9 h-9 rounded-full mr-4">{icons.link}</span>
-                <div className="h-full">
-                  <h2 className="text-lg font-bold my-0">Twitter</h2>
+                <div className="h-full">                
                   <a
-                    href=" https://x.com/Chandanpolai26?t=lLvLSTy_wm4IZkGItPScZw&s=08"
+                    href=" mailto:jitindhakarwal5555@gmail.com"
                     target="_blank"
-                    className="text-blue-500 text-sm hover:text-blue-400 "
+                    className="text-lg font-bold text-blue-500  hover:text-blue-400 "
                   >
-                    /chandan polai
+                    <h2>Mail</h2>
+                  </a>
+                </div>
+              </li>
+              <li className="flex items-center">
+                <span className="w-9 h-9 rounded-full mr-4">{icons.link}</span>
+                <div className="h-full">                  
+                  <a
+                    href="https://www.linkedin.com/in/jitin-dhakarwal-274923240/"
+                    target="_blank"
+                    className="text-blue-500 text-lg font-bold hover:text-blue-400 "
+                  >
+                    LinkedIn
                   </a>
                 </div>
               </li>
               <li className="flex items-center">
                 <span className="w-9 h-9 rounded-full mr-4">{icons.link}</span>
                 <div className="h-full">
-                  <h2 className="text-lg font-bold my-0">LikedIn</h2>
+                  
                   <a
-                    href="https://www.linkedin.com/in/chandan-polai-835063270/"
+                    href="https://github.com/Jitin2002"
                     target="_blank"
-                    className="text-blue-500 text-sm hover:text-blue-400 "
+                    className="text-lg font-bold  text-blue-500  hover:text-blue-400 "
                   >
-                    /chandan polai
+                    GitHub
                   </a>
                 </div>
               </li>
-              <li className="flex items-center">
-                <span className="w-9 h-9 rounded-full mr-4">{icons.link}</span>
-                <div className="h-full">
-                  <h2 className="text-lg font-bold my-0">GitHub</h2>
-                  <a
-                    href="https://github.com/ChandanPolai"
-                    target="_blank"
-                    className="text-blue-500 text-sm hover:text-blue-400 "
-                  >
-                    /chandan polai
-                  </a>
-                </div>
-              </li>
-              <li className="flex items-center">
-                <span className="w-9 h-9 rounded-full mr-4">{icons.link}</span>
-                <div className="h-full">
-                  <h2 className="text-lg font-bold my-0">Youtube</h2>
-                  <a
-                    href="https://www.youtube.com/@tgrpolai"
-                    target="_blank"
-                    className="text-blue-500 text-sm hover:text-blue-400 "
-                  >
-                    @tgrpolai
-                  </a>
-                  {/* <p className="text-blue-500 text-sm hover:text-blue-400 ">@tgrpolai</p> */}
-                </div>
-              </li>
+              
             </ul>
           </div>
         </div>

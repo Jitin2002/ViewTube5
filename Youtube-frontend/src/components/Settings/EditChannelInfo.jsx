@@ -56,7 +56,7 @@ function EditChannelInfo({ userData }) {
               </label>
               <div className="flex rounded-lg border">
                 <p className="flex shrink-0 items-center border-r border-white px-3 align-middle">
-                  Uchiha-Tube/.com
+                  YouTube/.com
                 </p>
                 <input
                   type="text"
