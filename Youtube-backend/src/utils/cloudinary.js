@@ -49,7 +49,7 @@ const uploadPhotoOnCloudinary = async (localFilePath) => {
         ],
       });
   
-      console.log("clodnairy videofile ka", cldnry_res)
+      console.log("file uploaded to cloudinary", cldnry_res)
       // File Uploaded Successfully & Removing File From Local System
       fs.unlinkSync(localFilePath);
   
