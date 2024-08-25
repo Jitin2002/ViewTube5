@@ -8,7 +8,7 @@
 
 | 📄 Content               | 🔗 Link                                                                 |
 | -------------------------|------------------------------------------------------------------------|
-| 🔴 Live Link             | [click here](https://uchiha-tube.vercel.app/)                          |
+| 🔴 Live Link             | [click here](https://viewtube5.netlify.app/)                          |
 | 📈 Model                 | [click here](https://app.eraser.io/workspace/cATefMPkrAdzR9c6teox?origin=share) |
 
 ## 🚀 Features
@@ -73,6 +73,7 @@
 - ⚙️ **Node.js**: The runtime environment for executing JavaScript code server-side.
 - 🌐 **Express.js**: A web application framework for Node.js.
 - 🗄️ **MongoDB**: A NoSQL database used for storing application data.
+- 🗄️ **Cloudinary**: A cloud-based media management platform used for storing, processing, and delivering images and videos in web applications..
 - 🔗 **Mongoose**: An Object Data Modeling (ODM) library for MongoDB and Node.js.
 - 🔒 **JWT**: JSON Web Tokens for securely transmitting information between parties as a JSON object.
 
@@ -81,20 +82,20 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ChandanPolai/UCHIHA-TUBE.git
+    git clone git@github.com:Jitin2002/ViewTube.git
     ```
 
 2. **Install dependencies For Backend:**
 
     ```bash
-    cd -uchiha-backend
+    cd Youtube-backend
     npm install
     ```
 
 2. **Install dependencies For Frontend:**
 
     ```bash
-    cd -uchiha-frontend
+    cd Youtube-frontend
     npm install
     ```
 
@@ -107,11 +108,6 @@
     npm run dev
     ```
 
-## 📞 Contact
-
-For any questions or suggestions, please contact me on my socials.
-
-- [LinkedIn](https://www.linkedin.com/in/chandan-polai-835063270/)
 
 
 ## 🙏 Acknowledgments
