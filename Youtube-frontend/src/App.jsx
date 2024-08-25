@@ -43,9 +43,9 @@ function App() {
     return (
       <div className="h-screen w-full  overflow-y-auto dark:bg-black bg-white text-red-500 dark:text-white">
         <div className="flex flex-col items-center justify-center mt-64">
-          <img src={lightLoader} className="logo w-24  " alt="Loading..." />
+          <img src={lodder} className="logo w-24  " alt="Loading..." />
           <h1 className="text-3xl text-center mt-8 font-semibold">
-            Uchiha is Waiting...
+            ViewTube is Waiting...
           </h1>
           {/* <h1 className="text-xl text-center mt-4">Refresh the page if it takes too long</h1> */}
         </div>
