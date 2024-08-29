@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Uchiha-Tube (YOUTUBE + TWITTER)** is an innovative project combining the functionality of a video hosting platform like YouTube with micro-blogging features similar to Twitter. Built on a robust tech stack including Node.js, Express.js, React.js, and MongoDB, this platform offers a seamless user experience with modern features.
+**View-Tube (YOUTUBE + TWITTER)** is an innovative project combining the functionality of a video hosting platform like YouTube with micro-blogging features similar to Twitter. Built on a robust tech stack including Node.js, Express.js, React.js, and MongoDB, this platform offers a seamless user experience with modern features.
 
 ## 🌐 Important Links
 
